@@ -8,6 +8,7 @@ import org.junit.runner.RunWith
 
 import org.junit.Assert.*
 
+// TODO Зачем этот класс если он не используется?
 /**
  * Instrumented test, which will execute on an Android device.
  *

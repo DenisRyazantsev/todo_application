@@ -4,6 +4,7 @@ import org.junit.Test
 
 import org.junit.Assert.*
 
+// TODO Зачем этот класс если он не используется?
 /**
  * Example local unit test, which will execute on the development machine (host).
  *

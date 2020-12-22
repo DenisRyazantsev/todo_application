@@ -13,6 +13,7 @@ class TodoListViewModel(
 ) : ViewModel() {
     val getAllTodo = todoRepository.getAllTodo
 
+    // TODO Почему во ViewModel функции, которые должны быть в DAO или в репозитории?
     fun deleteTodoAsync(todo: Todo) = GlobalScope.async {
         todoDao.delete(todo)
     }

@@ -3,6 +3,8 @@
 
     <string name="warning_empty_field">Нельзя создать пустую заметку</string>
     <string name="todo_empty_list">Список заметок пуст</string>
+<!--     TODO бтн, лбл, снкбр, ктдв. Зачем сокращения? Мы же не в 90-х годах когда длина строки была ограничена 80 символами.-->
+<!--    TODO Что сейчас, что тогда такие сокращения заставляли лишь тратить время на перевод с сокращенного в обычный язык.-->
     <string name="btn_add_todo">Добавить заметку</string>
     <string name="lbl_description">Описание</string>
     <string name="lbl_title">Название</string>
